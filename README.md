@@ -7,8 +7,8 @@ questions with respect to a project you want to talk about:
 1. Please introduce yourself and describe your role and who you work for.
 2. Can you describe your app to us?  What does it do? How does it work?
 3. Who is your target audience? Was any research conducted before developing
-   the app (market/competitors/functionality)?  Did you do any pre-development
-   work beforehand?
+   the app (e.g. market, competitors, functionality)?  Did you do any
+   pre-development work beforehand?
 4. How long did it take to design and build the app?  
 5. What did you have to consider when designing your app?
 6. What did you have to consider when developing your app?
